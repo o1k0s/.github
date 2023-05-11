@@ -8,4 +8,4 @@ O1k0s indaga i mezzi di comunicazione forniti dalle **nuove tecnologie** come st
 
 _O1k0s_ è la radice della parola ecosistema, in greco vuol dire casa, descrive gruppi di individui che hanno relazioni durature. Il progetto, così come l’O1k0s, mette al centro le interazioni tra le persone e quell’atto di abitare un ambiente in maniera condivisa. Un abitare che riguarda gli spazi digitali, quelli fisici dell’accademia e dell’intera città di Reggio, per questo il nostro **O1k0s è un ecosistema molto “stretto”**.
 
-O1k0s è formalmente un collettivo, i cui gli artistici sono sempre progetti collettivi e che quindi usa, quando l'attribuzione di un progetto ad un membro del progetto sia importante o significativa, degli pseudonimi (come _politis 1_, _politis 2_, ecc.)
+O1k0s è formalmente un collettivo, i cui gli artistici sono sempre progetti collettivi e che quindi usa, quando l'attribuzione di un progetto ad un membro del progetto sia importante o significativa, degli pseudonimi.
